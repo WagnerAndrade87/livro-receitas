@@ -1,4 +1,4 @@
-#Strogonoff de Frango :chiken
+# Strogonoff de Frango :chiken
 
 #### Ingredientes
  - 1 Kg de peito de frango sem pele
